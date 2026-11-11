@@ -56,4 +56,8 @@ To be updated after completing the analysis.
 
 ## Author
 
+<<<<<<< HEAD
 MD. SHAFIQUL ISLAM
+=======
+MD. SHAFIQUL ISLAM
+>>>>>>> 4b8b01ff386bafb76efd441a888b256e522ee45d
