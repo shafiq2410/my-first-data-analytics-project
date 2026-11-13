@@ -1,0 +1,11 @@
+﻿# Generated MkDocs website
+site/
+.mkdocs-build/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/

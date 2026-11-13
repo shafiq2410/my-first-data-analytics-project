@@ -11,7 +11,8 @@ of Data Analytics to professional-level skills
 in Data Science, Machine Learning and AI Engineering.
 
 Learn step by step through practical examples,
-real-world projects and career guidance.
+real-world projects and career guidances.
+
 
 ## Start Reading
 
